@@ -44,21 +44,8 @@ table.insert(
 table.insert(
     OPTIONS,
     {
-        name = "Alexandra Elbakyan",
-        path = "images/margaret_hamilton.jpg",
-        texts = {
-            "Criadora do site Sci-Hub.",
-            "Conhecida como a mãe da pirataria científica.",
-            "Sofreu perseguição de empresas."
-        }
-    }
-)
-
-table.insert(
-    OPTIONS,
-    {
         name = "Charles Babbage",
-        path = "images/margaret_hamilton.jpg",
+        path = "images/charles_baggage.jpg",
         texts = {
             "Desenvolveu a máquina analítica, o primeiro computador.",
             "Trabalhou junto de Ada Lovelace.",
@@ -70,60 +57,8 @@ table.insert(
 table.insert(
     OPTIONS,
     {
-        name = "Bill Gates",
-        path = "images/margaret_hamilton.jpg",
-        texts = {
-            "Criador da Microsoft.",
-            "Segundo homem mais rico do mundo.",
-            "Filantropo, doou bilhões de dólares para caridade."
-        }
-    }
-)
-
-table.insert(
-    OPTIONS,
-    {
-        name = "Linus Torvalds",
-        path = "images/margaret_hamilton.jpg",
-        texts = {
-            "Criador do linux e do git.",
-            "Mestre em Ciência da Computação.",
-            "Graduado pela Universidade de Helsinki."
-        }
-    }
-)
-
-table.insert(
-    OPTIONS,
-    {
-        name = "Tim Berners-Lee",
-        path = "images/margaret_hamilton.jpg",
-        texts = {
-            "Criou a World Wide Web (www).",
-            "Criou o primeiro navegador web.",
-            "Recebeu o premio Turing em 2016."
-        }
-    }
-)
-
-table.insert(
-    OPTIONS,
-    {
-        name = "Hedy Lamarr",
-        path = "images/margaret_hamilton.jpg",
-        texts = {
-            "Conhecida como mãe do Wi-fi.",
-            "Atriz e inventora austríaca.",
-            "Inventou o sistema base dos celulares."
-        }
-    }
-)
-
-table.insert(
-    OPTIONS,
-    {
         name = "Mary Kenneth Keller",
-        path = "images/margaret_hamilton.jpg",
+        path = "images/mary_kenneth_keller.jpg",
         texts = {
             "Primeira PhD em Ciência da Computação.",
             "Feira nascida nos Estados Unidos.",
@@ -135,47 +70,8 @@ table.insert(
 table.insert(
     OPTIONS,
     {
-        name = "Frances Allen",
-        path = "images/margaret_hamilton.jpg",
-        texts = {
-            "Primeira mulher a ganhar o prêmio Turing.",
-            "Contribuiu para a otimização e compilação de códigos.",
-            "Trabalhou para a IBM e para o governo dos EUA."
-        }
-    }
-)
-
-table.insert(
-    OPTIONS,
-    {
-        name = "Edith Ranzini",
-        path = "images/margaret_hamilton.jpg",
-        texts = {
-            "Engenheira brasileira formada pela USP.",
-            "Desenvolveu o primeiro computador brasileiro.",
-            "Esse computador foi chamado Patinho Feio"
-        }
-    }
-)
-
-table.insert(
-    OPTIONS,
-    {
-        name = "Susan Kare",
-        path = "images/margaret_hamilton.jpg",
-        texts = {
-            "Designer para a Apple.",
-            "Desenvolvou os ícones do Macintosh.",
-            "Criou ícones como a lixeira e o balde de tinta."
-        }
-    }
-)
-
-table.insert(
-    OPTIONS,
-    {
         name = "Grace Hopper",
-        path = "images/margaret_hamilton.jpg",
+        path = "images/grace_hopper.jpg",
         texts = {
             "Almirante da Marinha dos EUA.",
             "Criou a linguagem COBOL.",
