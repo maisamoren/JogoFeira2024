@@ -45,7 +45,7 @@ table.insert(
     OPTIONS,
     {
         name = "Alexandra Elbakyan",
-        path = "images/margaret_hamilton.jpg",
+        path = "images/alexandra_elbakyan.jpg",
         texts = {
             "Criadora do site Sci-Hub.",
             "Conhecida como a mãe da pirataria científica.",
